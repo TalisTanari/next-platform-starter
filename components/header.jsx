@@ -7,9 +7,9 @@ const navItems = [
     { linkText: '', href: '/' },
     { linkText: 'test', href: '/revalidation' },
     { linkText: 'test', href: '/image-cdn' },
-    { linkText: 'Edge Function', href: '/edge' },
-    { linkText: 'Blobs', href: '/blobs' },
-    { linkText: 'Classics', href: '/classics' }
+    { linkText: 'test', href: '/edge' },
+    { linkText: 'test', href: '/blobs' },
+    { linkText: 'test', href: '/classics' }
 ];
         </nav>
     );
